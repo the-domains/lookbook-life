@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Phipps Plaza Renovation
-datePublished: '2016-03-09T23:10:32.573Z'
-dateModified: '2016-03-09T23:10:16.836Z'
-title: ''
+datePublished: '2016-03-09T23:31:34.917Z'
+dateModified: '2016-03-09T23:30:59.073Z'
+title: PLAZA LIFE
 author: []
+sourcePath: _posts/2016-03-09-phipps-plaza-renovation.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-phipps-plaza-renovation.md
-published: true
 url: phipps-plaza-renovation/index.html
 _type: Article
 
