@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lookbook Life]]></title>
         <description><![CDATA[Lookbook Life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lookbook-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 23:11:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 23:32:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lookbook-life/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>undefinedphipps-plaza-renovation/index.html</link>
+            <title><![CDATA[PLAZA LIFE]]></title>
+            <description><![CDATA[<article><h1>PLAZA LIFE</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/lookbook-life/phipps-plaza-renovation/index.html</link>
             <guid isPermaLink="false">35b68ee6-6455-41e9-bc95-5a08cd01315a</guid>
-            <pubDate>Wed, 09 Mar 2016 23:10:32 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 23:31:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
