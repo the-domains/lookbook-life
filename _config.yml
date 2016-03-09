@@ -1,0 +1,28 @@
+name: Lookbook Life
+favicon: null
+layout_spectrum: 0.2780493574682623
+typography_spectrum: 0.0021981524769216776
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.22817691159434617
+  lightness: 0.25367833697237074
+  saturation: 0.5101727538276464
+  rhythmicContrast: 0.26742425188422203
+purpose: []
